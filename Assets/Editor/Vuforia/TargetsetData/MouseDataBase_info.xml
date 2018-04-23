@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2018-03-19 13:50:52" name="ms001" targetId="af19b7e67ae741ecb81cf4e41d8d34ce" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2018-03-19 13:18:02" name="mouse005" targetId="f844e7e2e40b42708837483756be4ee6" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2018-03-19 10:09:53" name="mouseNei01" targetId="4a5549d642124045b4561080b280ddf8" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2018-03-19 09:53:22" name="shubiao0004" targetId="68bc8bb81b2749a4a69d14d19dcaac39" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2018-03-19 10:37:37" name="mouseWuDian" targetId="bd70fae0388e4ed3b24c0a00baceabbd" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2018-03-19 10:23:57" name="mousedian" targetId="9d70e1b25bea4a88b317b48f0f67894a" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2018-03-19 10:30:20" name="mousetop001" targetId="6be60955f7d34f0f9d323b8a6e012d50" version="2.0" />
+  </TargetSet>
+</QCARInfo>

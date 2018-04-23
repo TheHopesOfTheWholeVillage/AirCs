@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: 0e2a7513740d0264c9617352ac436485
+timeCreated: 1521680901
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Battery
+    100004: Boss-Extrude1-DC_Shell
+    100006: Boss-Extrude12-DC_Shell
+    100008: Boss-Extrude13-DC_Shell
+    100010: Boss-Extrude1[10]-DC_Shell
+    100012: Boss-Extrude1[12]-DC_Shell
+    100014: Boss-Extrude1[1]-DC_Shell
+    100016: Boss-Extrude1[2]-DC_Shell
+    100018: Boss-Extrude1[3]-DC_Shell
+    100020: Boss-Extrude1[4]-DC_Shell
+    100022: Boss-Extrude1[5]-DC_Shell
+    100024: Boss-Extrude1[6]-DC_Shell
+    100026: Boss-Extrude1[7]-DC_Shell
+    100028: Boss-Extrude1[8]-DC_Shell
+    100030: Boss-Extrude1[9]-DC_Shell
+    100032: Boss-Extrude2-DC_Shell
+    100034: Boss-Extrude36-DC_Shell
+    100036: Chamfer1-DC_Shell
+    100038: CirPattern4-DC_Shell
+    100040: Cut-Extrude1-DC_Shell
+    100042: Cut-Extrude10-DC_Shell
+    100044: Cut-Extrude2-DC_Shell
+    100046: Cut-Extrude25-DC_Shell
+    100048: Cut-Extrude3-DC_Shell
+    100050: Cut-Extrude4-DC_Shell
+    100052: Fillet13-DC_Shell
+    100054: Fillet2-DC_Shell
+    100056: Fillet3-DC_Shell
+    100058: handle_2
+    100060: L1
+    100062: L2
+    100064: L3
+    100066: L4
+    100068: L5
+    100070: L6
+    100072: L7
+    100074: L8
+    100076: L9
+    100078: Luosidao
+    100080: Metal
+    100082: Mouse
+    100084: Sweep3-DC_Shell
+    100086: Sweep4-DC_Shell
+    100088: Sweep5-DC_Shell
+    100090: "\u94FE\u63A5\u7535\u8DEF"
+    400000: //RootNode
+    400002: Battery
+    400004: Boss-Extrude1-DC_Shell
+    400006: Boss-Extrude12-DC_Shell
+    400008: Boss-Extrude13-DC_Shell
+    400010: Boss-Extrude1[10]-DC_Shell
+    400012: Boss-Extrude1[12]-DC_Shell
+    400014: Boss-Extrude1[1]-DC_Shell
+    400016: Boss-Extrude1[2]-DC_Shell
+    400018: Boss-Extrude1[3]-DC_Shell
+    400020: Boss-Extrude1[4]-DC_Shell
+    400022: Boss-Extrude1[5]-DC_Shell
+    400024: Boss-Extrude1[6]-DC_Shell
+    400026: Boss-Extrude1[7]-DC_Shell
+    400028: Boss-Extrude1[8]-DC_Shell
+    400030: Boss-Extrude1[9]-DC_Shell
+    400032: Boss-Extrude2-DC_Shell
+    400034: Boss-Extrude36-DC_Shell
+    400036: Chamfer1-DC_Shell
+    400038: CirPattern4-DC_Shell
+    400040: Cut-Extrude1-DC_Shell
+    400042: Cut-Extrude10-DC_Shell
+    400044: Cut-Extrude2-DC_Shell
+    400046: Cut-Extrude25-DC_Shell
+    400048: Cut-Extrude3-DC_Shell
+    400050: Cut-Extrude4-DC_Shell
+    400052: Fillet13-DC_Shell
+    400054: Fillet2-DC_Shell
+    400056: Fillet3-DC_Shell
+    400058: handle_2
+    400060: L1
+    400062: L2
+    400064: L3
+    400066: L4
+    400068: L5
+    400070: L6
+    400072: L7
+    400074: L8
+    400076: L9
+    400078: Luosidao
+    400080: Metal
+    400082: Mouse
+    400084: Sweep3-DC_Shell
+    400086: Sweep4-DC_Shell
+    400088: Sweep5-DC_Shell
+    400090: "\u94FE\u63A5\u7535\u8DEF"
+    2100000: Mat.2
+    2100002: Mat.4
+    2100004: 01 - Default
+    2100006: 02 - Default
+    2100008: 'Material #168'
+    2100010: No Name
+    2100012: 19 - Default
+    2100014: 'Material #172'
+    2100016: 'Material #169'
+    2100018: 'Material #161'
+    2100020: L3
+    2100022: 'Material #167'
+    2100024: Light
+    2100026: daizi
+    2100028: 14 - Default
+    2100030: 'Material #184'
+    2100032: 'Material #185'
+    2100034: 03 - Default
+    2100036: 'Material #170'
+    2300000: Battery
+    2300002: Boss-Extrude1-DC_Shell
+    2300004: Boss-Extrude12-DC_Shell
+    2300006: Boss-Extrude13-DC_Shell
+    2300008: Boss-Extrude1[10]-DC_Shell
+    2300010: Boss-Extrude1[12]-DC_Shell
+    2300012: Boss-Extrude1[1]-DC_Shell
+    2300014: Boss-Extrude1[2]-DC_Shell
+    2300016: Boss-Extrude1[3]-DC_Shell
+    2300018: Boss-Extrude1[4]-DC_Shell
+    2300020: Boss-Extrude1[5]-DC_Shell
+    2300022: Boss-Extrude1[6]-DC_Shell
+    2300024: Boss-Extrude1[7]-DC_Shell
+    2300026: Boss-Extrude1[8]-DC_Shell
+    2300028: Boss-Extrude1[9]-DC_Shell
+    2300030: Boss-Extrude2-DC_Shell
+    2300032: Boss-Extrude36-DC_Shell
+    2300034: Chamfer1-DC_Shell
+    2300036: CirPattern4-DC_Shell
+    2300038: Cut-Extrude1-DC_Shell
+    2300040: Cut-Extrude10-DC_Shell
+    2300042: Cut-Extrude2-DC_Shell
+    2300044: Cut-Extrude25-DC_Shell
+    2300046: Cut-Extrude3-DC_Shell
+    2300048: Cut-Extrude4-DC_Shell
+    2300050: Fillet13-DC_Shell
+    2300052: Fillet2-DC_Shell
+    2300054: Fillet3-DC_Shell
+    2300056: handle_2
+    2300058: L1
+    2300060: L2
+    2300062: L3
+    2300064: L4
+    2300066: L5
+    2300068: L6
+    2300070: L7
+    2300072: L8
+    2300074: L9
+    2300076: Metal
+    2300078: Sweep3-DC_Shell
+    2300080: Sweep4-DC_Shell
+    2300082: Sweep5-DC_Shell
+    2300084: "\u94FE\u63A5\u7535\u8DEF"
+    3300000: Battery
+    3300002: Boss-Extrude1-DC_Shell
+    3300004: Boss-Extrude12-DC_Shell
+    3300006: Boss-Extrude13-DC_Shell
+    3300008: Boss-Extrude1[10]-DC_Shell
+    3300010: Boss-Extrude1[12]-DC_Shell
+    3300012: Boss-Extrude1[1]-DC_Shell
+    3300014: Boss-Extrude1[2]-DC_Shell
+    3300016: Boss-Extrude1[3]-DC_Shell
+    3300018: Boss-Extrude1[4]-DC_Shell
+    3300020: Boss-Extrude1[5]-DC_Shell
+    3300022: Boss-Extrude1[6]-DC_Shell
+    3300024: Boss-Extrude1[7]-DC_Shell
+    3300026: Boss-Extrude1[8]-DC_Shell
+    3300028: Boss-Extrude1[9]-DC_Shell
+    3300030: Boss-Extrude2-DC_Shell
+    3300032: Boss-Extrude36-DC_Shell
+    3300034: Chamfer1-DC_Shell
+    3300036: CirPattern4-DC_Shell
+    3300038: Cut-Extrude1-DC_Shell
+    3300040: Cut-Extrude10-DC_Shell
+    3300042: Cut-Extrude2-DC_Shell
+    3300044: Cut-Extrude25-DC_Shell
+    3300046: Cut-Extrude3-DC_Shell
+    3300048: Cut-Extrude4-DC_Shell
+    3300050: Fillet13-DC_Shell
+    3300052: Fillet2-DC_Shell
+    3300054: Fillet3-DC_Shell
+    3300056: handle_2
+    3300058: L1
+    3300060: L2
+    3300062: L3
+    3300064: L4
+    3300066: L5
+    3300068: L6
+    3300070: L7
+    3300072: L8
+    3300074: L9
+    3300076: Metal
+    3300078: Sweep3-DC_Shell
+    3300080: Sweep4-DC_Shell
+    3300082: Sweep5-DC_Shell
+    3300084: "\u94FE\u63A5\u7535\u8DEF"
+    4300000: Metal
+    4300002: handle_2
+    4300004: Fillet3-DC_Shell
+    4300006: Fillet13-DC_Shell
+    4300008: Cut-Extrude25-DC_Shell
+    4300010: Fillet2-DC_Shell
+    4300012: Sweep5-DC_Shell
+    4300014: Cut-Extrude4-DC_Shell
+    4300016: Boss-Extrude1[2]-DC_Shell
+    4300018: Boss-Extrude1[8]-DC_Shell
+    4300020: Boss-Extrude1[7]-DC_Shell
+    4300022: Boss-Extrude1[4]-DC_Shell
+    4300024: Boss-Extrude1[6]-DC_Shell
+    4300026: Boss-Extrude1[3]-DC_Shell
+    4300028: Boss-Extrude1[10]-DC_Shell
+    4300030: Boss-Extrude1[12]-DC_Shell
+    4300032: Boss-Extrude1[5]-DC_Shell
+    4300034: Boss-Extrude1[1]-DC_Shell
+    4300036: Boss-Extrude1[9]-DC_Shell
+    4300038: Boss-Extrude1-DC_Shell
+    4300040: Cut-Extrude2-DC_Shell
+    4300042: Sweep4-DC_Shell
+    4300044: Cut-Extrude10-DC_Shell
+    4300046: L5
+    4300048: L6
+    4300050: L3
+    4300052: L1
+    4300054: L2
+    4300056: L7
+    4300058: L9
+    4300060: L4
+    4300062: L8
+    4300064: "\u94FE\u63A5\u7535\u8DEF"
+    4300066: Boss-Extrude2-DC_Shell
+    4300068: Boss-Extrude13-DC_Shell
+    4300070: Cut-Extrude3-DC_Shell
+    4300072: Chamfer1-DC_Shell
+    4300074: Boss-Extrude12-DC_Shell
+    4300076: Boss-Extrude36-DC_Shell
+    4300078: Sweep3-DC_Shell
+    4300080: CirPattern4-DC_Shell
+    4300082: Cut-Extrude1-DC_Shell
+    4300084: Battery
+    7400000: start
+    7400002: Overtrun
+    7400004: CellCap
+    7400006: Cell
+    7400008: ScrewDriver
+    7400010: Capover
+    7400012: CurCuit
+    7400014: OverCell
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: start
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Overtrun
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CellCap
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 170
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cell
+      takeName: Take 001
+      firstFrame: 170
+      lastFrame: 270
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ScrewDriver
+      takeName: Take 001
+      firstFrame: 270
+      lastFrame: 660
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CurCuit
+      takeName: Take 001
+      firstFrame: 660
+      lastFrame: 757
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

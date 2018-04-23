@@ -1,0 +1,659 @@
+fileFormatVersion: 2
+guid: f0c386e3aec245041bab0bdcf8d38c9a
+timeCreated: 1521442552
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  10'
+    100006: '  11'
+    100008: '  12'
+    100010: '  13'
+    100012: '  14'
+    100014: '  15'
+    100016: '  16'
+    100018: '  17'
+    100020: '  18'
+    100022: '  19'
+    100024: '  2'
+    100026: '  20'
+    100028: '  21'
+    100030: '  22'
+    100032: '  23'
+    100034: '  24'
+    100036: '  25'
+    100038: '  26'
+    100040: '  3'
+    100042: '  4'
+    100044: '  5'
+    100046: '  6'
+    100048: '  7'
+    100050: '  8'
+    100052: '  9'
+    100054: ' 1'
+    100056: ' 10'
+    100058: ' 11'
+    100060: ' 12'
+    100062: ' 13'
+    100064: ' 14'
+    100066: ' 15'
+    100068: ' 16'
+    100070: ' 17'
+    100072: ' 18'
+    100074: ' 19'
+    100076: ' 2'
+    100078: ' 20'
+    100080: ' 21'
+    100082: ' 3'
+    100084: ' 4'
+    100086: ' 5'
+    100088: ' 6'
+    100090: ' 7'
+    100092: ' 8'
+    100094: ' 9'
+    100096: '''''Nano Receiver'''' text'
+    100098: '''''Nano Receiver'''' text 1'
+    100100: '''''Nano Receiver'''' text 2'
+    100102: AA Battery
+    100104: AA Battery 1
+    100106: AA Battery 2
+    100108: Battery casing^
+    100110: Battery casing^ 1
+    100112: Battery coil - negative
+    100114: Battery coil - negative 1
+    100116: Battery coil - negative 2
+    100118: Battery coil - positive
+    100120: Battery coil - positive 1
+    100122: Battery coil - positive 2
+    100124: Boss-Extrude1
+    100126: Boss-Extrude1-DC_Shell
+    100128: Boss-Extrude12
+    100130: Boss-Extrude12-DC_Shell
+    100132: Boss-Extrude13
+    100134: Boss-Extrude13-DC_Shell
+    100136: Boss-Extrude1[10]
+    100138: Boss-Extrude1[10]-DC_Shell
+    100140: Boss-Extrude1[11]
+    100142: Boss-Extrude1[11]-DC_Shell
+    100144: Boss-Extrude1[12]
+    100146: Boss-Extrude1[12]-DC_Shell
+    100148: Boss-Extrude1[1]
+    100150: Boss-Extrude1[1]-DC_Shell
+    100152: Boss-Extrude1[1]-DC_Shell 1
+    100154: Boss-Extrude1[2]
+    100156: Boss-Extrude1[2]-DC_Shell
+    100158: Boss-Extrude1[2]-DC_Shell 1
+    100160: Boss-Extrude1[3]
+    100162: Boss-Extrude1[3]-DC_Shell
+    100164: Boss-Extrude1[3]-DC_Shell 1
+    100166: Boss-Extrude1[4]
+    100168: Boss-Extrude1[4]-DC_Shell
+    100170: Boss-Extrude1[4]-DC_Shell 1
+    100172: Boss-Extrude1[5]
+    100174: Boss-Extrude1[5]-DC_Shell
+    100176: Boss-Extrude1[5]-DC_Shell 1
+    100178: Boss-Extrude1[6]
+    100180: Boss-Extrude1[6]-DC_Shell
+    100182: Boss-Extrude1[6]-DC_Shell 1
+    100184: Boss-Extrude1[7]
+    100186: Boss-Extrude1[7]-DC_Shell
+    100188: Boss-Extrude1[7]-DC_Shell 1
+    100190: Boss-Extrude1[8]
+    100192: Boss-Extrude1[8]-DC_Shell
+    100194: Boss-Extrude1[8]-DC_Shell 1
+    100196: Boss-Extrude1[9]
+    100198: Boss-Extrude1[9]-DC_Shell
+    100200: Boss-Extrude1[9]-DC_Shell 1
+    100202: Boss-Extrude2
+    100204: Boss-Extrude2-DC_Shell
+    100206: Boss-Extrude36
+    100208: Boss-Extrude36-DC_Shell
+    100210: Chamfer1
+    100212: Chamfer1-DC_Shell
+    100214: CirPattern4
+    100216: CirPattern4-DC_Shell
+    100218: Cut-Extrude1
+    100220: Cut-Extrude1-DC_Shell
+    100222: Cut-Extrude10
+    100224: Cut-Extrude10-DC_Shell
+    100226: Cut-Extrude2
+    100228: Cut-Extrude2-DC_Shell
+    100230: Cut-Extrude25
+    100232: Cut-Extrude25-DC_Shell
+    100234: Cut-Extrude3
+    100236: Cut-Extrude3-DC_Shell
+    100238: Cut-Extrude4
+    100240: Cut-Extrude4-DC_Shell
+    100242: Dome1
+    100244: Dome1-DC_Shell
+    100246: dummyName
+    100248: dummyName 1
+    100250: Fillet13
+    100252: Fillet13-DC_Shell
+    100254: Fillet2
+    100256: Fillet2-DC_Shell
+    100258: Fillet3
+    100260: Fillet3-DC_Shell
+    100262: Fixing screw
+    100264: Fixing screw 1
+    100266: Fixing screw 2
+    100268: Infra-red cable
+    100270: Infra-red cable 1
+    100272: Infra-red cable 2
+    100274: Infra-red sensor board
+    100276: Infra-red sensor board 1
+    100278: Infra-red sensor board 2
+    100280: Infra-red sensor LED
+    100282: Infra-red sensor LED 1
+    100284: Infra-red sensor LED 2
+    100286: Inner wheel
+    100288: Inner wheel 1
+    100290: Inner wheel 2
+    100292: Metallic part
+    100294: Metallic part 1
+    100296: Metallic part 2
+    100298: Middle housing with scroll wheel
+    100300: Middle housing with scroll wheel 1
+    100302: Mouse body - Battery casing
+    100304: Mouse body - Battery casing 1
+    100306: Mouse body - Battery casing 2
+    100308: Mouse body - Bottom housing
+    100310: Mouse body - Bottom housing 1
+    100312: Mouse body - Bottom housing 2
+    100314: Mouse body - middle housing
+    100316: Mouse body - middle housing 1
+    100318: Mouse body - middle housing 2
+    100320: Mouse body - top housing
+    100322: Mouse body - top housing 1
+    100324: Mouse body - top housing 2
+    100326: //RootNode
+    100328: NONE
+    100330: NONE 1
+    100332: NONE 10
+    100334: NONE 11
+    100336: NONE 12
+    100338: NONE 13
+    100340: NONE 14
+    100342: NONE 15
+    100344: NONE 16
+    100346: NONE 17
+    100348: NONE 18
+    100350: NONE 19
+    100352: NONE 2
+    100354: NONE 20
+    100356: NONE 3
+    100358: NONE 4
+    100360: NONE 5
+    100362: NONE 6
+    100364: NONE 7
+    100366: NONE 8
+    100368: NONE 9
+    100370: On-off switch
+    100372: On-off switch 1
+    100374: On-off switch 2
+    100376: PCB base
+    100378: PCB base 1
+    100380: PCB base 2
+    100382: PCB with switch
+    100384: PCB with switch 1
+    100386: Plastic end part
+    100388: Plastic end part 1
+    100390: Plastic end part 2
+    100392: Plastic insert
+    100394: Plastic insert 1
+    100396: Plastic insert 2
+    100398: Printed circuit board (PCB)
+    100400: Printed circuit board (PCB) 1
+    100402: Rear surface saver
+    100404: Rear surface saver 1
+    100406: Rear surface saver 2
+    100408: Revolve1
+    100410: Revolve1-DC_Shell
+    100412: Scroll coil
+    100414: Scroll coil 1
+    100416: Scroll coil 2
+    100418: Scroll wheel
+    100420: Scroll wheel 1
+    100422: Scroll wheel 2
+    100424: Scroll wheel assembly
+    100426: Scroll wheel assembly 1
+    100428: Sweep3
+    100430: Sweep3-DC_Shell
+    100432: Sweep4
+    100434: Sweep4-DC_Shell
+    100436: Sweep5
+    100438: Sweep5-DC_Shell
+    100440: USB - nano receiver
+    100442: USB - nano receiver 1
+    400000: ' '
+    400002: '  1'
+    400004: '  10'
+    400006: '  11'
+    400008: '  12'
+    400010: '  13'
+    400012: '  14'
+    400014: '  15'
+    400016: '  16'
+    400018: '  17'
+    400020: '  18'
+    400022: '  19'
+    400024: '  2'
+    400026: '  20'
+    400028: '  21'
+    400030: '  22'
+    400032: '  23'
+    400034: '  24'
+    400036: '  25'
+    400038: '  26'
+    400040: '  3'
+    400042: '  4'
+    400044: '  5'
+    400046: '  6'
+    400048: '  7'
+    400050: '  8'
+    400052: '  9'
+    400054: ' 1'
+    400056: ' 10'
+    400058: ' 11'
+    400060: ' 12'
+    400062: ' 13'
+    400064: ' 14'
+    400066: ' 15'
+    400068: ' 16'
+    400070: ' 17'
+    400072: ' 18'
+    400074: ' 19'
+    400076: ' 2'
+    400078: ' 20'
+    400080: ' 21'
+    400082: ' 3'
+    400084: ' 4'
+    400086: ' 5'
+    400088: ' 6'
+    400090: ' 7'
+    400092: ' 8'
+    400094: ' 9'
+    400096: '''''Nano Receiver'''' text'
+    400098: '''''Nano Receiver'''' text 1'
+    400100: '''''Nano Receiver'''' text 2'
+    400102: AA Battery
+    400104: AA Battery 1
+    400106: AA Battery 2
+    400108: Battery casing^
+    400110: Battery casing^ 1
+    400112: Battery coil - negative
+    400114: Battery coil - negative 1
+    400116: Battery coil - negative 2
+    400118: Battery coil - positive
+    400120: Battery coil - positive 1
+    400122: Battery coil - positive 2
+    400124: Boss-Extrude1
+    400126: Boss-Extrude1-DC_Shell
+    400128: Boss-Extrude12
+    400130: Boss-Extrude12-DC_Shell
+    400132: Boss-Extrude13
+    400134: Boss-Extrude13-DC_Shell
+    400136: Boss-Extrude1[10]
+    400138: Boss-Extrude1[10]-DC_Shell
+    400140: Boss-Extrude1[11]
+    400142: Boss-Extrude1[11]-DC_Shell
+    400144: Boss-Extrude1[12]
+    400146: Boss-Extrude1[12]-DC_Shell
+    400148: Boss-Extrude1[1]
+    400150: Boss-Extrude1[1]-DC_Shell
+    400152: Boss-Extrude1[1]-DC_Shell 1
+    400154: Boss-Extrude1[2]
+    400156: Boss-Extrude1[2]-DC_Shell
+    400158: Boss-Extrude1[2]-DC_Shell 1
+    400160: Boss-Extrude1[3]
+    400162: Boss-Extrude1[3]-DC_Shell
+    400164: Boss-Extrude1[3]-DC_Shell 1
+    400166: Boss-Extrude1[4]
+    400168: Boss-Extrude1[4]-DC_Shell
+    400170: Boss-Extrude1[4]-DC_Shell 1
+    400172: Boss-Extrude1[5]
+    400174: Boss-Extrude1[5]-DC_Shell
+    400176: Boss-Extrude1[5]-DC_Shell 1
+    400178: Boss-Extrude1[6]
+    400180: Boss-Extrude1[6]-DC_Shell
+    400182: Boss-Extrude1[6]-DC_Shell 1
+    400184: Boss-Extrude1[7]
+    400186: Boss-Extrude1[7]-DC_Shell
+    400188: Boss-Extrude1[7]-DC_Shell 1
+    400190: Boss-Extrude1[8]
+    400192: Boss-Extrude1[8]-DC_Shell
+    400194: Boss-Extrude1[8]-DC_Shell 1
+    400196: Boss-Extrude1[9]
+    400198: Boss-Extrude1[9]-DC_Shell
+    400200: Boss-Extrude1[9]-DC_Shell 1
+    400202: Boss-Extrude2
+    400204: Boss-Extrude2-DC_Shell
+    400206: Boss-Extrude36
+    400208: Boss-Extrude36-DC_Shell
+    400210: Chamfer1
+    400212: Chamfer1-DC_Shell
+    400214: CirPattern4
+    400216: CirPattern4-DC_Shell
+    400218: Cut-Extrude1
+    400220: Cut-Extrude1-DC_Shell
+    400222: Cut-Extrude10
+    400224: Cut-Extrude10-DC_Shell
+    400226: Cut-Extrude2
+    400228: Cut-Extrude2-DC_Shell
+    400230: Cut-Extrude25
+    400232: Cut-Extrude25-DC_Shell
+    400234: Cut-Extrude3
+    400236: Cut-Extrude3-DC_Shell
+    400238: Cut-Extrude4
+    400240: Cut-Extrude4-DC_Shell
+    400242: Dome1
+    400244: Dome1-DC_Shell
+    400246: dummyName
+    400248: dummyName 1
+    400250: Fillet13
+    400252: Fillet13-DC_Shell
+    400254: Fillet2
+    400256: Fillet2-DC_Shell
+    400258: Fillet3
+    400260: Fillet3-DC_Shell
+    400262: Fixing screw
+    400264: Fixing screw 1
+    400266: Fixing screw 2
+    400268: Infra-red cable
+    400270: Infra-red cable 1
+    400272: Infra-red cable 2
+    400274: Infra-red sensor board
+    400276: Infra-red sensor board 1
+    400278: Infra-red sensor board 2
+    400280: Infra-red sensor LED
+    400282: Infra-red sensor LED 1
+    400284: Infra-red sensor LED 2
+    400286: Inner wheel
+    400288: Inner wheel 1
+    400290: Inner wheel 2
+    400292: Metallic part
+    400294: Metallic part 1
+    400296: Metallic part 2
+    400298: Middle housing with scroll wheel
+    400300: Middle housing with scroll wheel 1
+    400302: Mouse body - Battery casing
+    400304: Mouse body - Battery casing 1
+    400306: Mouse body - Battery casing 2
+    400308: Mouse body - Bottom housing
+    400310: Mouse body - Bottom housing 1
+    400312: Mouse body - Bottom housing 2
+    400314: Mouse body - middle housing
+    400316: Mouse body - middle housing 1
+    400318: Mouse body - middle housing 2
+    400320: Mouse body - top housing
+    400322: Mouse body - top housing 1
+    400324: Mouse body - top housing 2
+    400326: //RootNode
+    400328: NONE
+    400330: NONE 1
+    400332: NONE 10
+    400334: NONE 11
+    400336: NONE 12
+    400338: NONE 13
+    400340: NONE 14
+    400342: NONE 15
+    400344: NONE 16
+    400346: NONE 17
+    400348: NONE 18
+    400350: NONE 19
+    400352: NONE 2
+    400354: NONE 20
+    400356: NONE 3
+    400358: NONE 4
+    400360: NONE 5
+    400362: NONE 6
+    400364: NONE 7
+    400366: NONE 8
+    400368: NONE 9
+    400370: On-off switch
+    400372: On-off switch 1
+    400374: On-off switch 2
+    400376: PCB base
+    400378: PCB base 1
+    400380: PCB base 2
+    400382: PCB with switch
+    400384: PCB with switch 1
+    400386: Plastic end part
+    400388: Plastic end part 1
+    400390: Plastic end part 2
+    400392: Plastic insert
+    400394: Plastic insert 1
+    400396: Plastic insert 2
+    400398: Printed circuit board (PCB)
+    400400: Printed circuit board (PCB) 1
+    400402: Rear surface saver
+    400404: Rear surface saver 1
+    400406: Rear surface saver 2
+    400408: Revolve1
+    400410: Revolve1-DC_Shell
+    400412: Scroll coil
+    400414: Scroll coil 1
+    400416: Scroll coil 2
+    400418: Scroll wheel
+    400420: Scroll wheel 1
+    400422: Scroll wheel 2
+    400424: Scroll wheel assembly
+    400426: Scroll wheel assembly 1
+    400428: Sweep3
+    400430: Sweep3-DC_Shell
+    400432: Sweep4
+    400434: Sweep4-DC_Shell
+    400436: Sweep5
+    400438: Sweep5-DC_Shell
+    400440: USB - nano receiver
+    400442: USB - nano receiver 1
+    2100000: No Name
+    2300000: Boss-Extrude1-DC_Shell
+    2300002: Boss-Extrude12-DC_Shell
+    2300004: Boss-Extrude13-DC_Shell
+    2300006: Boss-Extrude1[10]-DC_Shell
+    2300008: Boss-Extrude1[11]-DC_Shell
+    2300010: Boss-Extrude1[12]-DC_Shell
+    2300012: Boss-Extrude1[1]-DC_Shell
+    2300014: Boss-Extrude1[1]-DC_Shell 1
+    2300016: Boss-Extrude1[2]-DC_Shell
+    2300018: Boss-Extrude1[2]-DC_Shell 1
+    2300020: Boss-Extrude1[3]-DC_Shell
+    2300022: Boss-Extrude1[3]-DC_Shell 1
+    2300024: Boss-Extrude1[4]-DC_Shell
+    2300026: Boss-Extrude1[4]-DC_Shell 1
+    2300028: Boss-Extrude1[5]-DC_Shell
+    2300030: Boss-Extrude1[5]-DC_Shell 1
+    2300032: Boss-Extrude1[6]-DC_Shell
+    2300034: Boss-Extrude1[6]-DC_Shell 1
+    2300036: Boss-Extrude1[7]-DC_Shell
+    2300038: Boss-Extrude1[7]-DC_Shell 1
+    2300040: Boss-Extrude1[8]-DC_Shell
+    2300042: Boss-Extrude1[8]-DC_Shell 1
+    2300044: Boss-Extrude1[9]-DC_Shell
+    2300046: Boss-Extrude1[9]-DC_Shell 1
+    2300048: Boss-Extrude2-DC_Shell
+    2300050: Boss-Extrude36-DC_Shell
+    2300052: Chamfer1-DC_Shell
+    2300054: CirPattern4-DC_Shell
+    2300056: Cut-Extrude1-DC_Shell
+    2300058: Cut-Extrude10-DC_Shell
+    2300060: Cut-Extrude2-DC_Shell
+    2300062: Cut-Extrude25-DC_Shell
+    2300064: Cut-Extrude3-DC_Shell
+    2300066: Cut-Extrude4-DC_Shell
+    2300068: Dome1-DC_Shell
+    2300070: Fillet13-DC_Shell
+    2300072: Fillet2-DC_Shell
+    2300074: Fillet3-DC_Shell
+    2300076: Revolve1-DC_Shell
+    2300078: Sweep3-DC_Shell
+    2300080: Sweep4-DC_Shell
+    2300082: Sweep5-DC_Shell
+    3300000: Boss-Extrude1-DC_Shell
+    3300002: Boss-Extrude12-DC_Shell
+    3300004: Boss-Extrude13-DC_Shell
+    3300006: Boss-Extrude1[10]-DC_Shell
+    3300008: Boss-Extrude1[11]-DC_Shell
+    3300010: Boss-Extrude1[12]-DC_Shell
+    3300012: Boss-Extrude1[1]-DC_Shell
+    3300014: Boss-Extrude1[1]-DC_Shell 1
+    3300016: Boss-Extrude1[2]-DC_Shell
+    3300018: Boss-Extrude1[2]-DC_Shell 1
+    3300020: Boss-Extrude1[3]-DC_Shell
+    3300022: Boss-Extrude1[3]-DC_Shell 1
+    3300024: Boss-Extrude1[4]-DC_Shell
+    3300026: Boss-Extrude1[4]-DC_Shell 1
+    3300028: Boss-Extrude1[5]-DC_Shell
+    3300030: Boss-Extrude1[5]-DC_Shell 1
+    3300032: Boss-Extrude1[6]-DC_Shell
+    3300034: Boss-Extrude1[6]-DC_Shell 1
+    3300036: Boss-Extrude1[7]-DC_Shell
+    3300038: Boss-Extrude1[7]-DC_Shell 1
+    3300040: Boss-Extrude1[8]-DC_Shell
+    3300042: Boss-Extrude1[8]-DC_Shell 1
+    3300044: Boss-Extrude1[9]-DC_Shell
+    3300046: Boss-Extrude1[9]-DC_Shell 1
+    3300048: Boss-Extrude2-DC_Shell
+    3300050: Boss-Extrude36-DC_Shell
+    3300052: Chamfer1-DC_Shell
+    3300054: CirPattern4-DC_Shell
+    3300056: Cut-Extrude1-DC_Shell
+    3300058: Cut-Extrude10-DC_Shell
+    3300060: Cut-Extrude2-DC_Shell
+    3300062: Cut-Extrude25-DC_Shell
+    3300064: Cut-Extrude3-DC_Shell
+    3300066: Cut-Extrude4-DC_Shell
+    3300068: Dome1-DC_Shell
+    3300070: Fillet13-DC_Shell
+    3300072: Fillet2-DC_Shell
+    3300074: Fillet3-DC_Shell
+    3300076: Revolve1-DC_Shell
+    3300078: Sweep3-DC_Shell
+    3300080: Sweep4-DC_Shell
+    3300082: Sweep5-DC_Shell
+    4300000: Cut-Extrude10-DC_Shell
+    4300002: Sweep4-DC_Shell
+    4300004: Sweep5-DC_Shell
+    4300006: Cut-Extrude3-DC_Shell
+    4300008: Boss-Extrude13-DC_Shell
+    4300010: Boss-Extrude2-DC_Shell
+    4300012: Fillet2-DC_Shell
+    4300014: Boss-Extrude36-DC_Shell
+    4300016: Cut-Extrude1-DC_Shell
+    4300018: CirPattern4-DC_Shell
+    4300020: Sweep3-DC_Shell
+    4300022: Revolve1-DC_Shell
+    4300024: Cut-Extrude4-DC_Shell
+    4300026: Cut-Extrude2-DC_Shell
+    4300028: Boss-Extrude1[1]-DC_Shell
+    4300030: Boss-Extrude1[2]-DC_Shell
+    4300032: Boss-Extrude1[3]-DC_Shell
+    4300034: Boss-Extrude1[4]-DC_Shell
+    4300036: Boss-Extrude1[5]-DC_Shell
+    4300038: Boss-Extrude1[6]-DC_Shell
+    4300040: Boss-Extrude1[7]-DC_Shell
+    4300042: Boss-Extrude1[8]-DC_Shell
+    4300044: Boss-Extrude1[9]-DC_Shell
+    4300046: Boss-Extrude1[10]-DC_Shell
+    4300048: Boss-Extrude1[11]-DC_Shell
+    4300050: Boss-Extrude1[12]-DC_Shell
+    4300052: Boss-Extrude1-DC_Shell
+    4300054: Boss-Extrude12-DC_Shell
+    4300056: Chamfer1-DC_Shell
+    4300058: Fillet3-DC_Shell
+    4300060: Dome1-DC_Shell
+    4300062: Cut-Extrude25-DC_Shell
+    4300064: Fillet13-DC_Shell
+    4300066: Boss-Extrude1[7]-DC_Shell
+    4300068: Boss-Extrude1[4]-DC_Shell
+    4300070: Boss-Extrude1[6]-DC_Shell
+    4300072: Boss-Extrude1[9]-DC_Shell
+    4300074: Boss-Extrude1[5]-DC_Shell
+    4300076: Boss-Extrude1[8]-DC_Shell
+    4300078: Boss-Extrude1[3]-DC_Shell
+    4300080: Boss-Extrude1[2]-DC_Shell
+    4300082: Boss-Extrude1[1]-DC_Shell
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
