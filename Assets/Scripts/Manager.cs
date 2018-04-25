@@ -64,12 +64,20 @@ public class Manager : MonoBehaviour {
         }
         else if (level==3)
         {
-            menuss[3].SetActive(true);
-            menuss[1].SetActive(false);
+            
             images[1].SetActive(false);
             images[2].SetActive(true);
             level++;
         }
+        else if (level==4)
+        {
+            menuss[3].SetActive(true);
+            menuss[1].SetActive(false);
+            images[2].SetActive(false);
+            images[3].SetActive(true);
+            level++;
+        }
+
     }
     public void BackArr()
     {
@@ -99,10 +107,17 @@ public class Manager : MonoBehaviour {
         }
         else if(level==4)
         {
-            menuss[3].SetActive(false);
-            menuss[1].SetActive(true);
+           
             images[1].SetActive(true);
             images[2].SetActive(false);
+            level--;
+        }
+        else if (level==5)
+        {
+            menuss[3].SetActive(false);
+            menuss[1].SetActive(true);
+            images[2].SetActive(true);
+            images[3].SetActive(false);
             level--;
         }
     }

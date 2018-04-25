@@ -6,8 +6,6 @@ public class Can1 : MonoBehaviour {
     [SerializeField]
     int level;
     [SerializeField]
-    private GameObject jian;
-    [SerializeField]
     private GameObject tzq;
     [SerializeField]
     private GameObject[] images;
@@ -18,6 +16,7 @@ public class Can1 : MonoBehaviour {
     Animation ani;
 	// Use this for initialization
 	void Start () {
+        level = 1;
         ani = tzq.GetComponent<Animation>();
 	}
 	
@@ -29,25 +28,16 @@ public class Can1 : MonoBehaviour {
     {
         images[0].SetActive(false);
         images[1].SetActive(false);
-        jian.SetActive(true);
-        tzq.SetActive(false);
-        Munes[0].SetActive(false);
-        Munes[1].SetActive(false);
-        Munes[2].SetActive(false);
-        Munes[3].SetActive(false);
-        level = 0;
-       
-        CanNext[2].SetActive(true);
-        CanNext[0].SetActive(false);
-    }
-    public void Jians()
-    {
-        jian.SetActive(false);
+        images[2].SetActive(true);
         tzq.SetActive(true);
-        ani.Play("tzq");
         Munes[0].SetActive(true);
         Munes[1].SetActive(true);
-        level++;
+        Munes[2].SetActive(false);
+        Munes[3].SetActive(false);
+        level = 1;
+        ani.Play("tzq");
+        CanNext[2].SetActive(true);
+        CanNext[0].SetActive(false);
     }
     public void NextCase()
     {
