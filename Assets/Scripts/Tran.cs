@@ -102,31 +102,31 @@ public class Tran : MonoBehaviour {
 
     public void posX1Add()
     {
-        objs.transform.position=new Vector3(objs.transform.position.x+0.1f, objs.transform.position.y, objs.transform.position.z);
+        objs.transform.localPosition=new Vector3(objs.transform.localPosition.x+0.1f, objs.transform.localPosition.y, objs.transform.localPosition.z);
     }
     public void posX1Move()
     {
-        objs.transform.position = new Vector3(objs.transform.position.x-0.1f, objs.transform.position.y, objs.transform.position.z);
+        objs.transform.localPosition = new Vector3(objs.transform.localPosition.x-0.1f, objs.transform.localPosition.y, objs.transform.localPosition.z);
     }
     public void posYAdd()
     {
-        objs.transform.position = new Vector3(objs.transform.position.x, objs.transform.position.y+0.1f, objs.transform.position.z);
+        objs.transform.localPosition = new Vector3(objs.transform.localPosition.x, objs.transform.localPosition.y+0.1f, objs.transform.localPosition.z);
     }
     public void posYMove()
     {
-        objs.transform.position = new Vector3(objs.transform.position.x, objs.transform.position.y-0.1f, objs.transform.position.z);
+        objs.transform.localPosition = new Vector3(objs.transform.localPosition.x, objs.transform.localPosition.y-0.1f, objs.transform.localPosition.z);
     }
     public void posZAdd()
     {
-        objs.transform.position = new Vector3(objs.transform.position.x, objs.transform.position.y, objs.transform.position.z+0.1f);
+        objs.transform.localPosition = new Vector3(objs.transform.localPosition.x, objs.transform.localPosition.y, objs.transform.localPosition.z+0.1f);
     }
     public void posZMove()
     {
-        objs.transform.position = new Vector3(objs.transform.position.x, objs.transform.position.y, objs.transform.position.z-0.1f);
+        objs.transform.localPosition = new Vector3(objs.transform.localPosition.x, objs.transform.localPosition.y, objs.transform.localPosition.z-0.1f);
     }
     
     public void textUI()
     {
-        text.text ="pos"+ objs.transform.position.ToString()+"Rot"+objs.transform.eulerAngles.ToString()+"Sca"+objs.transform.localScale.ToString();
+        text.text ="pos"+ objs.transform.localPosition.ToString()+"Rot"+objs.transform.eulerAngles.ToString()+"Sca"+objs.transform.localScale.ToString();
     }
 }
