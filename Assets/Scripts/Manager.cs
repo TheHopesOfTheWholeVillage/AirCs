@@ -42,8 +42,8 @@ public class Manager : MonoBehaviour {
             menus.SetActive(true);
         }
         animafzl.Play("fzl");
-        menus.transform.position = new Vector3(objs[a].transform.position.x-0.9f, objs[a].transform.position.y +1.1f, objs[a].transform.position.z);
-        fzl.transform.position = new Vector3(objs[a].transform.position.x, objs[a].transform.position.y+0.7f, objs[a].transform.position.z);
+        menus.transform.localPosition = new Vector3(objs[a].transform.localPosition.x-0.9f, objs[a].transform.localPosition.y +1.1f, objs[a].transform.localPosition.z);
+        fzl.transform.localPosition = new Vector3(objs[a].transform.localPosition.x, objs[a].transform.localPosition.y+0.7f, objs[a].transform.localPosition.z);
     }
     public void NextArr()
     {
